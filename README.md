@@ -50,6 +50,14 @@ sudo docker --version
 sudo apt install docker-compose
 docker-compose --version
 ```
+### Install OpenSSL
+
+Run the following commands to install **OpenSSL** on your system:
+
+```bash
+sudo apt update
+sudo apt install openssl -y
+```
 ## Setup Instructions
 ### Generate JWT Secret
 Generate a JWT secret by running the following command:
@@ -93,7 +101,12 @@ docker-compose logs -f op-geth-minato
 - Ubuntu 22.04 or a compatible Linux distribution.
 - Root or sudo privileges.
 - OpenSSL installed.
-  
+### Install OpenSSL
+Run the following commands to install **OpenSSL** on your system:
+```bash
+sudo apt update
+sudo apt install openssl -y
+```
 ### Installation Steps
 #### Step 1: Download Binaries
 Download the op-node and geth binaries from the release page:

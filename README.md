@@ -1,3 +1,6 @@
+[Soneium](https://soneium.org/) is a next-generation Ethereum layer 2 blockchain ecosystem developed by Sony Block Solutions Labs. It connects Web3 with everyday Web2 services, making blockchain more accessible for users. Soneium aims to be a versatile, general-purpose platform, empowering developers and creators with scalable, user-friendly technology. It supports a range of applications, including entertainment, gaming, and finance, offering innovative and competitive features in the Ethereum layer 2 space.
+![image](https://github.com/user-attachments/assets/395c014b-72e5-4ff4-a3eb-7474bfd74f9e)
+
 # Minato Node Setup Guide
 
 This guide provides instructions on setting up a Minato node using Docker, Docker Compose, and binary installation.
